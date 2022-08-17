@@ -1,19 +1,19 @@
 # Encripitador-de-texto-alura-challenger
 Primeiro Challenger da alura-OracleONE!#challengeonedecodificador3
-Encrimesptaidoberr - Alufatrai Chaillenterngenter 2022
-Lais "llaiventers" denter enterncrimesptaicimesón qufatenter ufattimeslimeszairentermobers sobern lais simesgufatimesenterntenters:
 
-Lai lentertrai "enter" enters cobernventerrtimesdai pairai "enterntenterr" Lai lentertrai "imes" enters cobernventerrtimesdai pairai "imesmenters" Lai lentertrai "ai" enters cobernventerrtimesdai pairai "aiimes" Lai lentertrai "ober" enters cobernventerrtimesdai pairai "oberbenterr" Lai lentertrai "ufat" enters cobernventerrtimesdai pairai "ufatfait"
+As "chaves" de criptografia que usaremos são as seguintes:
 
-Renterqufatimessimestobers:
+A letra "e" é convertida em "enter" A letra "i" é convertida em "imes" A letra "a" é convertida em "ai" A letra "o" é convertida em "ober" A letra "u" é convertido para "ufat"
 
-Denterbenter fufatncimesobernair soberlober cobern lentertrais mimesnúscufatlais
-Nober denterbentern senterr ufattimeslimeszaidobers lentertrais cobern aicenterntobers nimes cairaictenterrenters enterspentercimesailenters
-Denterbenter senterr pobersimesblenter cobernventerrtimesr ufatnai pailaibrai pairai lai venterrsimesón enterncrimesptaidai taimbimesén dentervoberlventerr ufatnai pailaibrai enterncrimesptaidai pairai sufat venterrsimesón oberrimesgimesnail.
-Poberr enterjentermplober: "gaitober" => "gaiimestoberbenterr" gaiimestoberbenterr" => "gaitober"
+Requisitos:
 
-Lai págimesnai denterbenter tenternenterr caimpobers pairai imesnsenterrcimesón denterl tenterxtober qufatenter senterrá enterncrimesptaidober ober dentersenterncrimesptaidober, y enterl ufatsufatairimesober denterbenter poberdenterr enterscobergenterr enterntrenter ais dobers oberpcimesobernenters. El rentersufatltaidober denterbenter senterr moberstraidober entern lai paintaillai.
+Deve funcionar apenas com letras minúsculas
+Letras com acentos ou caracteres especiais não devem ser usadas.
+Deve ser possível converter uma palavra para a versão criptografada, bem como retornar uma palavra criptografada para sua versão original.
+Por exemplo: "gato" => "gaitober" gaitober" => "gato"
 
-Extrais:
+A página deve ter campos para inserção do texto que será criptografado ou descriptografado, e o usuário deve poder escolher entre as duas opções. O resultado deve ser exibido na tela.
 
-Un bobertón qufatenter coberpimesenter enterl tenterxtober enterncrimesptaidober/dentersenterncrimesptaidober pairai lai senterccimesón denter trainsfenterrenterncimesai, ober senterai qufatenter tenterngai lai mimessmai fufatncimesobernailimesdaid denterl ctrl+C ober denter lai oberpcimesón "coberpimesair" denterl menternú denter lais aiplimescaicimesobernenters.
+Características adicionais:
+
+Um botão que copia o texto criptografado/descriptografado para a seção de transferência, ou seja, tem a mesma funcionalidade que ctrl+C ou a opção "copiar" do menu de aplicativos.
